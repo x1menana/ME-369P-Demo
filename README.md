@@ -1,4 +1,4 @@
-# Demo for implementing a simple linear regression model using pytorch
+# Demo for implementing a simple Neural Network (computes linear regression) using PyTorch
 
 ## Prerequisites:
 - Python 3.9 or later 
